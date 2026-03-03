@@ -14,7 +14,7 @@
         <div class="container">
             <div class="flex flex-col md:flex-row md:justify-between items-center md:gap-3">
                 <div class="md:w-21.25">
-                    <a  href="#" class="site-logo">
+                    <a  href="<?php site_url('/'); ?>" class="site-logo">
                         <img class="object-cover w-21.25" src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="Logo-png">
                     </a>
                 </div>
