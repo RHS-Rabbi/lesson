@@ -23,4 +23,6 @@
     }
     add_action('init', 'rrf_theme_basic_setup');
 
+    add_theme_support('post-thumbnails');
+
 ?>
