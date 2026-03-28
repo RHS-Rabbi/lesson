@@ -1,2 +1,2 @@
 # lesson
-# Rabbi Hossai
+# Rabbi Hossa
