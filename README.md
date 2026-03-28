@@ -1,2 +1,2 @@
 # lesson
-# Rabbi Hos
+# Rabbi Ho
